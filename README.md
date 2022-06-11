@@ -11,7 +11,7 @@ This section include following document:
 
 `python count_registry.py`
 
-
+![Table 1](https://github.com/xpxxx/opentelemetry_empirical/blob/main/Background/Table%201.png)
 
 
 
