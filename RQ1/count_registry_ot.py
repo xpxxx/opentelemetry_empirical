@@ -64,7 +64,7 @@ count[j+1] = sum
 
 #print(languages_row)
 #print(count)
-col = ["Instrumentation"]
+col = ["Temp"]
 table = [count]
 
 #draw the table
