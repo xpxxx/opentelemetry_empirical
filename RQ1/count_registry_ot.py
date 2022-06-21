@@ -69,7 +69,7 @@ table = [count]
 
 #draw the table
 plt.figure(figsize = (20,8))
-tab = plt.table(cellText=table, colLabels=languages_row, rowLabels=col, loc="center")
+tab = plt.table(cellText=table, colLabels=languages_row, rowLabels=col, loc="center", cellLoc="left")
 tab.scale(1,2)
 plt.axis('off')
 plt.show()
