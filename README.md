@@ -13,7 +13,7 @@ This section include following document:
 
 ![Table_1_temp](https://github.com/xpxxx/opentelemetry_empirical/blob/main/RQ1/Table_1_temp.png)
 
-**BUT** repositories maintained by OpenTracing are not sorted by their  properties and we concentrated on those repositories instrumented. So we have double checked manually to delete some repositories not related to instrumentation as shown as [Table_1](https://github.com/xpxxx/opentelemetry_empirical/blob/main/RQ1/Table_1_manually.jpg).
+**BUT** repositories maintained by OpenTracing are not sorted by their  properties and we concentrated on those repositories instrumented. So we have double checked manually to delete some repositories not related to instrumentation as shown as [Table_1_manually](https://github.com/xpxxx/opentelemetry_empirical/blob/main/RQ1/Table_1_manually.jpg).
 
 ![Table_1_manually](https://github.com/xpxxx/opentelemetry_empirical/blob/main/RQ1/Table_1_manually.jpg)
 
